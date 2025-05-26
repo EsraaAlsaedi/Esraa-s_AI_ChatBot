@@ -25,17 +25,6 @@ This is a simple desktop chatbot application built in Java using Swing for the G
 3. Compile and run the `Bot` class.
 4. Type messages into the chat box and receive AI-generated replies.
 
-### Customization
-
-- You can update the API endpoint, API key, and model in the `chatGPT` method to use different AI services.
-- The UI layout and behavior can be further customized or extended with more features like voice input or file sharing.
-
-## Notes
-
-- Keep your API key secure and do not hard-code it for production use.
-- The current API endpoint used in the code is a third-party hosted GPT API; ensure you have the right access.
-- This project is designed primarily for educational and experimental use.
-
 ## License
 
 This project is open for personal and educational use.
