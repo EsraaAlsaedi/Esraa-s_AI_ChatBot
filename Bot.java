@@ -69,7 +69,7 @@ public class Bot extends JFrame {
     }
 
     private void bot(String response) {
-        chatArea.append("Bot: " + response + "\n\n");
+        chatArea.append("Esraa's Bot: " + response + "\n\n");
     }
 
     public static String chatGPT(String message) {
